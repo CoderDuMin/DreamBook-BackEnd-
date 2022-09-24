@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "bj-cynosdbmysql-grp-oo8ksk5a.sql.tencentcdb.com",
+  "port": 25004,
+  "username": "root",
+  "password": "Dumin123",
+  "database": "dreambook",
+  "synchronize": true,
+  "entities": ["src/entity/*.ts"],
+  "cli": {
+    "entitiesDir": "src/entity"
+  }
+}
