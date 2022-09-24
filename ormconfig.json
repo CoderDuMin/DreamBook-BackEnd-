@@ -1,9 +1,9 @@
 {
   "type": "mysql",
-  "host": "bj-cynosdbmysql-grp-oo8ksk5a.sql.tencentcdb.com",
-  "port": 25004,
+  "host": "输入你的主机地址",
+  "port": 3306,
   "username": "root",
-  "password": "Dumin123",
+  "password": "123456",
   "database": "dreambook",
   "synchronize": true,
   "entities": ["src/entity/*.ts"],
